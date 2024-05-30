@@ -1,0 +1,8 @@
+-- js has 8 datatypes
+-- undefined v/s null , most users explicitly define the value null for any variable or function
+-- it just signifies the var/function dosen't any value,
+-- undefined means that particular var/function has not been defined yet.
+-- undefined == null (true, as both have no value) but undefined === null (false, types is not same)
+-- bigint is when we want to store greater value than that assigned i.e 64bit for every var.
+-- bigint 2^53 - 1;
+-- Symbol datatype is used to hide a detail.
