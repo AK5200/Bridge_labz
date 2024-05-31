@@ -1,0 +1,3 @@
+-- Function types - declaration, expression, arrow
+-- declaration function are hoisted (can be called before initializing)
+-- arrow funtion dosen't have name
