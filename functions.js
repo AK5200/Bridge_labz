@@ -89,6 +89,23 @@ foo();
   
 
 
+// lexical scoping 
+// in nested function a child can access anything from above it (parent, grandparent)
+// but not vice-versa, even siblings do not share their vars.
+
+function lexical()
+{
+    const name = "browser";
+
+    function sayname()
+    {
+        console.log("name", name);
+    }
+
+    sayname();
+}
+
+lexical();
 
 
 
