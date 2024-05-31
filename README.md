@@ -1,2 +1,2 @@
-# Bridge_labz
+# Javascript
 learning the nodejs stack
