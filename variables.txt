@@ -1,0 +1,8 @@
+// var let const
+// var-- hoisted,  scope-function
+// let-- scope-block introduced in ES6
+// const-- socpe-block, requires initial value, cannot reassign.
+// var can be used without initialization, by default it takes undefined
+var b;
+console.log(b); // undefined 
+// let and const will throw error
