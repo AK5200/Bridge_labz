@@ -1,0 +1,5 @@
+// things that can be accessed before they are intitialized
+// the regular function declarations are hoisted
+// but arrow and expressions are not
+// in variables also var is hoisted and others are not.
+//js automatically puts var declarations at the top of the code, same for regular function declarations.
