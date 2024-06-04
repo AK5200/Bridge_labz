@@ -68,5 +68,9 @@ task1( ()=> {
     })
 })
 
-
-
+// inversion of control
+// another drawback of callbacks
+// in callbacks we call one function and call another function inside of it
+// but in big corps it may be the case that the other function being called is written by someone else
+// and the current programmer don't know about that and just calls it, it can happen that the function has bugs or error
+// and that function has the controlling power of the flow of js.
