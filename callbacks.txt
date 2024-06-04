@@ -1,0 +1,6 @@
+// In js we can pass a function as a parameter to another function 
+// and can call that function after the execution of the first function
+// this is called callbacks and it can perform async
+// callback hell - situation in js where callbacks are nested within other callbacks
+// to the degree where the code is difficult to read.
+// oldest way to handle async functions, new we have promises and async/await
