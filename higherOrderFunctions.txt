@@ -1,0 +1,1 @@
+// A functions which takes a function as an argument or returns a function are call higher order functions
