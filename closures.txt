@@ -1,0 +1,5 @@
+// Closures is the concept intoduced to run nested functions.
+// If there is function x and it is done executing then it will also free all th evariables which were declared in it.
+// and even if the inner function which still needs those variables will not be able to access them.
+// that is where closures comes in, it is a concept where the inner function will have access to the outer functions varibales (reference not value) even wehen outer is finished.
+// lexical scope- ability of a function to acces variables from parent
