@@ -1,0 +1,4 @@
+// to make the obj accessible for every function we need call()
+// first argument is the obj to call and rest are the parameters
+// apply is similar to cal but instead of comma separated args we give the args in an array
+// bind instead of calling here itselves gives us a function which we can call later or reuse the same func with different args
