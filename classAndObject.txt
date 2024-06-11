@@ -1,0 +1,5 @@
+// class acts a a blue print for object. oject is an instance of a class
+// inside a class we don't need function method
+//Static methods, no need to create any object can be accessed directly from class
+// private properties in class start with #
+// super calls constructor of parent class.
