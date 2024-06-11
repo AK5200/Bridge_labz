@@ -1,0 +1,8 @@
+// error - an object which is created to represent  problems.
+// try{ } - holds code which might cause error
+// catch { } - catch and handle thrown error from try { }
+// finally { } - optional, will execute no matter what the result os
+
+// try catch blocks does not interrupt the execution of the later program even if there is an error
+// without try catch the program will stop executing as soon as it encounters an error.
+//we can also explicitly throw an error using-  throw new Error(`message`)
